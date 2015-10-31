@@ -1,0 +1,18 @@
+GIT
+  remote: https://github.com/ReactiveX/RxRuby
+  revision: e493b321a7a9157a15ff6239f2cbe45cf2d1efec
+  specs:
+    Rx.rb (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  Rx.rb!
+
+BUNDLED WITH
+   1.10.6
